@@ -1,5 +1,5 @@
 # calendly-chatbot
-THis project is for using OpenAI's function calling feature via Langchain to craft requests to the Calendly API. Note that the chatbot currently only supports two functions: (1) retrieving list of user's scheduled events, and (2) cancels a user's event based on a specified time.
+This project is for using OpenAI's function calling feature via Langchain to craft requests to the Calendly API. Note that the chatbot currently only supports two functions: (1) retrieving list of user's scheduled events, and (2) cancels a user's event based on a specified time.
 
 
 # Instructions for Development:
