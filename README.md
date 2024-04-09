@@ -9,6 +9,7 @@ Clone repository and navigate to root directory. Then, you want to create the co
 
 Before you start up the flask server, first navigate to chatbot.py. You will need to input your Calendly API Key, your OpenAI API key, as well as your Calendly user URI.
 You can get your calendly user URI by running the following:
+
 curl --request GET \
 --url https://api.calendly.com/users/me \
 --header 'authorization: Bearer {access_token}'
